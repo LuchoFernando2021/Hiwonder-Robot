@@ -7,7 +7,8 @@ To ensure it works properly, start the camera: sudo systemctl restart start_app_
 
 To open the servo editor: python3 software/ainex_controller/main.py
 
-In the Servos_0_PWM file, the AI_NEX Hiwonder sheet lists the IDs (1 through 22) for each servomotor; meanwhile, the I sheet contains the values the servos must assume to reach specific captured positions, which represent how the robot will move.
+In the Servos_0_PWM file, the AI_NEX Hiwonder sheet lists the IDs (1 through 22) for each servomotor; meanwhile, 
+the I sheet contains the values the servos must assume to reach specific captured positions, which represent how the robot will move.
 
 Warning!!!! 
 Work with the PWM values of the servomotors.
