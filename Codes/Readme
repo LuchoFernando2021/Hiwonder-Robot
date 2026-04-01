@@ -1,7 +1,7 @@
 To log in to the robot, you can use HDMI or MobaXterm
 
 username: ubuntu                           //all lowercase
-password: hiwonder                           //all lowercase
+password: hiwonder                         //all lowercase
 
 To ensure it works properly, start the camera: sudo systemctl restart start_app_node.service
 
