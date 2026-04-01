@@ -1,3 +1,7 @@
+
+The AI_NEX_EXO_STL folder contains designs ready for slicing and printing.
+
+
 [Readme!!!!!.txt](https://github.com/user-attachments/files/25020615/Readme.txt)
 Log in via HDMI or MobaXterm:
 user: ubuntu		//all lowercase
